@@ -22,7 +22,7 @@ My implementation of `ft_printf` supports the following format specifiers:
 
 First, clone the repository:
 ```bash
-git clone https://github.com/Fiona-87327/42Core_ft_printf.git
+git clone https://github.com/Fiona-0525/42Core_ft_printf.git
 cd 42Core_ft_printf/ft_printf
 ```
 
